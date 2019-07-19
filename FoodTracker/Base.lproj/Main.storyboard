@@ -42,6 +42,7 @@
                                         <connections>
                                             <outletCollection property="gestureRecognizers" destination="ZDP-LS-85f" appends="YES" id="Xyl-dx-AD2"/>
                                             <outletCollection property="gestureRecognizers" destination="ZDP-LS-85f" appends="YES" id="P9W-HA-Mjf"/>
+                                            <outletCollection property="gestureRecognizers" destination="ZDP-LS-85f" appends="YES" id="jTT-48-QTc"/>
                                         </connections>
                                     </imageView>
                                     <stackView opaque="NO" contentMode="scaleToFill" spacing="8" translatesAutoresizingMaskIntoConstraints="NO" id="FHQ-PE-F6t" customClass="RatingControl" customModule="FoodTracker" customModuleProvider="target">
